@@ -1,4 +1,5 @@
 # Diagnosing Pneumonia from X-Ray Images Using Convolutional Neural Network
+![chest](https://github.com/tonytsoi/CNN_xray/blob/main/charts/IM-0115-0001.jpeg)
 ## Introduction
 Deep learning, also known as neural network, has gained traction in recent years, and is now being widely used across multiple fields, with one of its popular applications being image classification which uses the convolutional neural network (“CNN”). The potential of image classification is also being explored in the field of medical diagnosis. In this article, I discuss how we can build a convolutional neural network that would help us diagnose pneumonia from chest x-ray images.
 ## Neural Network
